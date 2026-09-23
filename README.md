@@ -1,1 +1,1 @@
-# lab6-
+# lab6- Explores privacy risks when using personal or confidential aviation information with public AI tools. It identifies sensitive data, replaces details with safe placeholders, removes unnecessary information, and uses verification instructions to create safer prompts for professional communication.
